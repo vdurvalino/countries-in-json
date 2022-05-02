@@ -1,0 +1,1546 @@
+[
+  {
+    "names": {
+      "portuguese": "Andorra",
+      "english": "Andorra",
+      "spanish": "Andorra"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Emirados Árabes Unidos",
+      "english": "United Arab Emirates",
+      "spanish": "Emiratos Árabes Unidos"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Afeganistão",
+      "english": "Afghanistan",
+      "spanish": "Afganistán"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Antígua e Barbuda",
+      "english": "Antigua and Barbuda",
+      "spanish": "Antigua y Barbuda"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Albânia",
+      "english": "Albania",
+      "spanish": "Albania"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Armênia",
+      "english": "Armenia",
+      "spanish": "Armenia"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Angola",
+      "english": "Angola",
+      "spanish": "Angola"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Argentina",
+      "english": "Argentina",
+      "spanish": "Argentina"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Áustria",
+      "english": "Austria",
+      "spanish": "Austria"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Austrália",
+      "english": "Australia",
+      "spanish": "Australia"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Azerbaijão",
+      "english": "Azerbaijan",
+      "spanish": "Azerbaiyán"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Bósnia e Herzegovina",
+      "english": "Bosnia and Herzegovina",
+      "spanish": "Bosnia y Herzegovina"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Barbados",
+      "english": "Barbados",
+      "spanish": "Barbados"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Bangladesh",
+      "english": "Bangladesh",
+      "spanish": "Bangladesh"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Bélgica",
+      "english": "Belgium",
+      "spanish": "Bélgica"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Burkina Faso",
+      "english": "Burkina Faso",
+      "spanish": "Burkina Faso"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Bulgária",
+      "english": "Bulgaria",
+      "spanish": "Bulgaria"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Barein",
+      "english": "Bahrain",
+      "spanish": "Bahrein"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Burundi",
+      "english": "Burundi",
+      "spanish": "Burundi"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Benin",
+      "english": "Benin",
+      "spanish": "Benin"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Brunei",
+      "english": "Brunei Darussalam",
+      "spanish": "Brunei Darussalam"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Bolívia",
+      "english": "Bolivia (Plurinational State of)",
+      "spanish": "Bolivia (Estado Plurinacional de)"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Brasil",
+      "english": "Brazil",
+      "spanish": "Brasil"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Bahamas",
+      "english": "Bahamas",
+      "spanish": "Bahamas"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Butão",
+      "english": "Bhutan",
+      "spanish": "Bhután"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Botsuana",
+      "english": "Botswana",
+      "spanish": "Botswana"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Belarus",
+      "english": "Belarus",
+      "spanish": "Belarús"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Belize",
+      "english": "Belize",
+      "spanish": "Belice"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Canadá",
+      "english": "Canada",
+      "spanish": "Canadá"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "República Democrática do Congo",
+      "english": "Democratic Republic of the Congo",
+      "spanish": "República Democrática del Congo"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "República Centro Africana",
+      "english": "Central African Republic",
+      "spanish": "República Centroafricana"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Congo",
+      "english": "Congo",
+      "spanish": "Congo"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Suíça",
+      "english": "Switzerland",
+      "spanish": "Suiza"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Costa do Marfim",
+      "english": "Côte d'Ivoire",
+      "spanish": "Côte d’Ivoire"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Chile",
+      "english": "Chile",
+      "spanish": "Chile"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Camarões",
+      "english": "Cameroon",
+      "spanish": "Camerún"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "China",
+      "english": "China",
+      "spanish": "China"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Colômbia",
+      "english": "Colombia",
+      "spanish": "Colombia"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Costa Rica",
+      "english": "Costa Rica",
+      "spanish": "Costa Rica"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Cuba",
+      "english": "Cuba",
+      "spanish": "Cuba"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Cabo Verde",
+      "english": "Cabo Verde",
+      "spanish": "Cabo Verde"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Chipre",
+      "english": "Cyprus",
+      "spanish": "Chipre"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "República Tcheca",
+      "english": "Czechia",
+      "spanish": "Chequia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Alemanha",
+      "english": "Germany",
+      "spanish": "Alemania"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Djibouti",
+      "english": "Djibouti",
+      "spanish": "Djibouti"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Dinamarca",
+      "english": "Denmark",
+      "spanish": "Dinamarca"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Dominica",
+      "english": "Dominica",
+      "spanish": "Dominica"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "República Dominicana",
+      "english": "Dominican Republic",
+      "spanish": "República Dominicana"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Argélia",
+      "english": "Algeria",
+      "spanish": "Argelia"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Equador",
+      "english": "Ecuador",
+      "spanish": "Ecuador"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Estônia",
+      "english": "Estonia",
+      "spanish": "Estonia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Egito",
+      "english": "Egypt",
+      "spanish": "Egipto"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Eritréia",
+      "english": "Eritrea",
+      "spanish": "Eritrea"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Espanha",
+      "english": "Spain",
+      "spanish": "España"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Etiópia",
+      "english": "Ethiopia",
+      "spanish": "Etiopía"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Finlândia",
+      "english": "Finland",
+      "spanish": "Finlandia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Fiji",
+      "english": "Fiji",
+      "spanish": "Fiji"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Micronésia",
+      "english": "Micronesia (Federated States of)",
+      "spanish": "Micronesia (Estados Federados de)"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "França",
+      "english": "France",
+      "spanish": "Francia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Gabão",
+      "english": "Gabon",
+      "spanish": "Gabón"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Reino Unido",
+      "english": "United Kingdom of Great Britain and Northern Ireland",
+      "spanish": "Reino Unido de Gran Bretaña e Irlanda del Norte"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Granada",
+      "english": "Grenada",
+      "spanish": "Granada"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Geórgia",
+      "english": "Georgia",
+      "spanish": "Georgia"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Gana",
+      "english": "Ghana",
+      "spanish": "Ghana"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Gâmbia",
+      "english": "Gambia",
+      "spanish": "Gambia"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Guiné",
+      "english": "Guinea",
+      "spanish": "Guinea"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Guiné Equatorial",
+      "english": "Equatorial Guinea",
+      "spanish": "Guinea Ecuatorial"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Grécia",
+      "english": "Greece",
+      "spanish": "Grecia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Guatemala",
+      "english": "Guatemala",
+      "spanish": "Guatemala"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Guiné-Bissau",
+      "english": "Guinea-Bissau",
+      "spanish": "Guinea-Bissau"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Guiana",
+      "english": "Guyana",
+      "spanish": "Guyana"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Honduras",
+      "english": "Honduras",
+      "spanish": "Honduras"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Croácia",
+      "english": "Croatia",
+      "spanish": "Croacia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Haiti",
+      "english": "Haiti",
+      "spanish": "Haití"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Hungria",
+      "english": "Hungary",
+      "spanish": "Hungría"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Indonésia",
+      "english": "Indonesia",
+      "spanish": "Indonesia"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Irlanda",
+      "english": "Ireland",
+      "spanish": "Irlanda"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Israel",
+      "english": "Israel",
+      "spanish": "Israel"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Índia",
+      "english": "India",
+      "spanish": "India"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Iraque",
+      "english": "Iraq",
+      "spanish": "Iraq"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Irã",
+      "english": "Iran (Islamic Republic of)",
+      "spanish": "Irán (República Islámica del)"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Islândia",
+      "english": "Iceland",
+      "spanish": "Islandia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Itália",
+      "english": "Italy",
+      "spanish": "Italia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Jamaica",
+      "english": "Jamaica",
+      "spanish": "Jamaica"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Jordânia",
+      "english": "Jordan",
+      "spanish": "Jordania"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Japão",
+      "english": "Japan",
+      "spanish": "Japón"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Quênia",
+      "english": "Kenya",
+      "spanish": "Kenya"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Quirguistão",
+      "english": "Kyrgyzstan",
+      "spanish": "Kirguistán"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Camboja",
+      "english": "Cambodia",
+      "spanish": "Camboya"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Kiribati",
+      "english": "Kiribati",
+      "spanish": "Kiribati"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Comores",
+      "english": "Comoros",
+      "spanish": "Comoras"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "São Cristóvão e Nevis",
+      "english": "Saint Kitts and Nevis",
+      "spanish": "Saint Kitts y Nevis"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "República Popular Democrática da Coréia",
+      "english": "Democratic People's Republic of Korea",
+      "spanish": "República Popular Democrática de Corea"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "República da Coréia",
+      "english": "Republic of Korea",
+      "spanish": "República de Corea"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Kuwait",
+      "english": "Kuwait",
+      "spanish": "Kuwait"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Cazaquistão",
+      "english": "Kazakhstan",
+      "spanish": "Kazajstán"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Laos",
+      "english": "Lao People's Democratic Republic",
+      "spanish": "República Democrática Popular Lao"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Líbano",
+      "english": "Lebanon",
+      "spanish": "Líbano"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Santa Lúcia",
+      "english": "Saint Lucia",
+      "spanish": "Santa Lucía"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Liechtenstein",
+      "english": "Liechtenstein",
+      "spanish": "Liechtenstein"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Sri Lanka",
+      "english": "Sri Lanka",
+      "spanish": "Sri Lanka"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Libéria",
+      "english": "Liberia",
+      "spanish": "Liberia"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Lesoto",
+      "english": "Lesotho",
+      "spanish": "Lesotho"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Lituânia",
+      "english": "Lithuania",
+      "spanish": "Lituania"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Luxemburgo",
+      "english": "Luxembourg",
+      "spanish": "Luxemburgo"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Letônia",
+      "english": "Latvia",
+      "spanish": "Letonia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Líbia",
+      "english": "Libya",
+      "spanish": "Libia"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Marrocos",
+      "english": "Morocco",
+      "spanish": "Marruecos"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Mônaco",
+      "english": "Monaco",
+      "spanish": "Mónaco"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Moldávia",
+      "english": "Republic of Moldova",
+      "spanish": "República de Moldova"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Montenegro",
+      "english": "Montenegro",
+      "spanish": "Montenegro"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Madagáscar",
+      "english": "Madagascar",
+      "spanish": "Madagascar"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Ilhas Marshall",
+      "english": "Marshall Islands",
+      "spanish": "Islas Marshall"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Macedônia do Norte",
+      "english": "North Macedonia",
+      "spanish": "Macedonia del Norte"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Mali",
+      "english": "Mali",
+      "spanish": "Malí"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Mianmar",
+      "english": "Myanmar",
+      "spanish": "Myanmar"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Mongólia",
+      "english": "Mongolia",
+      "spanish": "Mongolia"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Mauritânia",
+      "english": "Mauritania",
+      "spanish": "Mauritania"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Malta",
+      "english": "Malta",
+      "spanish": "Malta"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Maurício",
+      "english": "Mauritius",
+      "spanish": "Mauricio"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Maldivas",
+      "english": "Maldives",
+      "spanish": "Maldivas"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Malauí",
+      "english": "Malawi",
+      "spanish": "Malawi"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "México",
+      "english": "Mexico",
+      "spanish": "México"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Malásia",
+      "english": "Malaysia",
+      "spanish": "Malasia"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Moçambique",
+      "english": "Mozambique",
+      "spanish": "Mozambique"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Namíbia",
+      "english": "Namibia",
+      "spanish": "Namibia"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Níger",
+      "english": "Niger",
+      "spanish": "Níger"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Nigéria",
+      "english": "Nigeria",
+      "spanish": "Nigeria"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Nicarágua",
+      "english": "Nicaragua",
+      "spanish": "Nicaragua"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Holanda",
+      "english": "Netherlands",
+      "spanish": "Países Bajos"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Noruega",
+      "english": "Norway",
+      "spanish": "Noruega"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Nepal",
+      "english": "Nepal",
+      "spanish": "Nepal"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Nauru",
+      "english": "Nauru",
+      "spanish": "Nauru"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Nova Zelândia",
+      "english": "New Zealand",
+      "spanish": "Nueva Zelandia"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Omã",
+      "english": "Oman",
+      "spanish": "Omán"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Panamá",
+      "english": "Panama",
+      "spanish": "Panamá"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Peru",
+      "english": "Peru",
+      "spanish": "Perú"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Papua Nova Guiné",
+      "english": "Papua New Guinea",
+      "spanish": "Papua Nueva Guinea"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Filipinas",
+      "english": "Philippines",
+      "spanish": "Filipinas"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Paquistão",
+      "english": "Pakistan",
+      "spanish": "Pakistán"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Polônia",
+      "english": "Poland",
+      "spanish": "Polonia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Portugal",
+      "english": "Portugal",
+      "spanish": "Portugal"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Palau",
+      "english": "Palau",
+      "spanish": "Palau"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Paraguai",
+      "english": "Paraguay",
+      "spanish": "Paraguay"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Catar",
+      "english": "Qatar",
+      "spanish": "Qatar"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Romênia",
+      "english": "Romania",
+      "spanish": "Rumania"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Sérvia",
+      "english": "Serbia",
+      "spanish": "Serbia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Rússia (Federação Russa)",
+      "english": "Russian Federation",
+      "spanish": "Federación de Rusia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Ruanda",
+      "english": "Rwanda",
+      "spanish": "Rwanda"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Arábia Saudita",
+      "english": "Saudi Arabia",
+      "spanish": "Arabia Saudita"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Ilhas Salomão",
+      "english": "Solomon Islands",
+      "spanish": "Islas Salomón"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Seichelles",
+      "english": "Seychelles",
+      "spanish": "Seychelles"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Sudão",
+      "english": "Sudan",
+      "spanish": "Sudán"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Suécia",
+      "english": "Sweden",
+      "spanish": "Suecia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Singapura",
+      "english": "Singapore",
+      "spanish": "Singapur"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Eslovênia",
+      "english": "Slovenia",
+      "spanish": "Eslovenia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Eslováquia",
+      "english": "Slovakia",
+      "spanish": "Eslovaquia"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Serra Leoa",
+      "english": "Sierra Leone",
+      "spanish": "Sierra Leona"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "San Marino",
+      "english": "San Marino",
+      "spanish": "San Marino"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Senegal",
+      "english": "Senegal",
+      "spanish": "Senegal"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Somália",
+      "english": "Somalia",
+      "spanish": "Somalia"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Suriname",
+      "english": "Suriname",
+      "spanish": "Suriname"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Sudão do Sul",
+      "english": "South Sudan",
+      "spanish": "Sudán del Sur"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "São Tomé e Príncipe",
+      "english": "Sao Tome and Principe",
+      "spanish": "Santo Tomé y Príncipe"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "El Salvador",
+      "english": "El Salvador",
+      "spanish": "El Salvador"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Síria",
+      "english": "Syrian Arab Republic",
+      "spanish": "República Árabe Siria"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Eswatini",
+      "english": "Eswatini",
+      "spanish": "Eswatini"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Chade",
+      "english": "Chad",
+      "spanish": "Chad"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Togo",
+      "english": "Togo",
+      "spanish": "Togo"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Tailândia",
+      "english": "Thailand",
+      "spanish": "Tailandia"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Tadjiquistão",
+      "english": "Tajikistan",
+      "spanish": "Tayikistán"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Timor Leste",
+      "english": "Timor-Leste",
+      "spanish": "Timor-Leste"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Turcomenistão",
+      "english": "Turkmenistan",
+      "spanish": "Turkmenistán"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Tunísia",
+      "english": "Tunisia",
+      "spanish": "Túnez"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Tonga",
+      "english": "Tonga",
+      "spanish": "Tonga"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Turquia",
+      "english": "Turkey",
+      "spanish": "Turquía"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Trinidad e Tobago",
+      "english": "Trinidad and Tobago",
+      "spanish": "Trinidad y Tabago"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Tuvalu",
+      "english": "Tuvalu",
+      "spanish": "Tuvalu"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Tanzânia",
+      "english": "United Republic of Tanzania",
+      "spanish": "República Unida de Tanzanía"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Ucrânia",
+      "english": "Ukraine",
+      "spanish": "Ucrania"
+    },
+    "localization": "Europa"
+  },
+  {
+    "names": {
+      "portuguese": "Uganda",
+      "english": "Uganda",
+      "spanish": "Uganda"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Estados Unidos da América",
+      "english": "United States of America",
+      "spanish": "Estados Unidos de América"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Uruguai",
+      "english": "Uruguay",
+      "spanish": "Uruguay"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Uzbequistão",
+      "english": "Uzbekistan",
+      "spanish": "Uzbekistán"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "São Vicente e Granadinas",
+      "english": "Saint Vincent and the Grenadines",
+      "spanish": "San Vicente y las Granadinas"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Venezuela",
+      "english": "Venezuela (Bolivarian Republic of)",
+      "spanish": "Venezuela (República Bolivariana de)"
+    },
+    "localization": "América"
+  },
+  {
+    "names": {
+      "portuguese": "Vietnã",
+      "english": "Viet Nam",
+      "spanish": "Viet Nam"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "Vanuatu",
+      "english": "Vanuatu",
+      "spanish": "Vanuatu"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Samoa",
+      "english": "Samoa",
+      "spanish": "Samoa"
+    },
+    "localization": "Oceania"
+  },
+  {
+    "names": {
+      "portuguese": "Iêmen",
+      "english": "Yemen",
+      "spanish": "Yemen"
+    },
+    "localization": "Ásia"
+  },
+  {
+    "names": {
+      "portuguese": "África do Sul",
+      "english": "South Africa",
+      "spanish": "Sudáfrica"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Zâmbia",
+      "english": "Zambia",
+      "spanish": "Zambia"
+    },
+    "localization": "África"
+  },
+  {
+    "names": {
+      "portuguese": "Zimbábue",
+      "english": "Zimbabwe",
+      "spanish": "Zimbabwe"
+    },
+    "localization": "África"
+  }
+]
